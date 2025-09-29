@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Hr.LeaveManagement.Domain.Common;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace Hr.LeaveManagement.Domain
 {
-    public class LeaveRequest
+    public class LeaveRequest : BaseDomainEntity
     {
-        public int Id { get; set; }
         public DateTime StarDate { get; set; }
         public DateTime EndDate { get; set; }
         public LeaveType LeaveType { get; set; }

@@ -1,0 +1,16 @@
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\bin\Debug\net8.0\Hr.LeaveManagement.Application.deps.json
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\bin\Debug\net8.0\Hr.LeaveManagement.Application.dll
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\bin\Debug\net8.0\Hr.LeaveManagement.Application.pdb
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\bin\Debug\net8.0\Hr.LeaveManagement.Domain.dll
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\bin\Debug\net8.0\Hr.LeaveManagement.Domain.pdb
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\obj\Debug\net8.0\Hr.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\obj\Debug\net8.0\Hr.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\obj\Debug\net8.0\Hr.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\obj\Debug\net8.0\Hr.LeaveManagement.Application.AssemblyInfo.cs
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\obj\Debug\net8.0\Hr.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\obj\Debug\net8.0\Hr.LeaveManagement.Application.sourcelink.json
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\obj\Debug\net8.0\Hr.Leave.283EDEB6.Up2Date
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\obj\Debug\net8.0\Hr.LeaveManagement.Application.dll
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\obj\Debug\net8.0\refint\Hr.LeaveManagement.Application.dll
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\obj\Debug\net8.0\Hr.LeaveManagement.Application.pdb
+C:\E\Backend\CleanArchetictureFromYoutube\HrLeaveManagement\Hr.LeaveManagement.Application\obj\Debug\net8.0\ref\Hr.LeaveManagement.Application.dll
