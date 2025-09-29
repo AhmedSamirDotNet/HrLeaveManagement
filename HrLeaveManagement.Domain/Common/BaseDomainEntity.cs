@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Hr.LeaveManagement.Domain.Common
 {
     //abstract class : cannot be instantiated only for inheritance
-    public abstract class BaseDomainEntity
+    public abstract class BaseDomainEntity   // Domain = Models
     {
         public int Id { get; set; }
         public DateTime DateCreated { get; set; }

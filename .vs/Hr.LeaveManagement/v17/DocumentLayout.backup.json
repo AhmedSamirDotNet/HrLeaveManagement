@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hr.leavemanagement.application\\applicationserviceregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\applicationserviceregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hr.leavemanagement.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hr.leavemanagement.application\\hr.leavemanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\hr.leavemanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hrleavemanagement.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|solutionrelative:hrleavemanagement.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hrleavemanagement.domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|solutionrelative:hrleavemanagement.domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hrleavemanagement.domain\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|solutionrelative:hrleavemanagement.domain\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hrleavemanagement.domain\\common\\basedomainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|solutionrelative:hrleavemanagement.domain\\common\\basedomainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hr.leavemanagement.application\\dtos\\leaverequest\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\dtos\\leaverequest\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hr.leavemanagement.application\\dtos\\leaverequest\\leaverequestlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\dtos\\leaverequest\\leaverequestlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hr.leavemanagement.application\\dtos\\leaveallocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\dtos\\leaveallocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hr.leavemanagement.application\\dtos\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\dtos\\leavetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hr.leavemanagement.application\\dtos\\common\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\dtos\\common\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hr.leavemanagement.application\\persistence\\contracts\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,22 +63,6 @@
       "RelativeMoniker": "D:0:0:{8155230C-EC49-4F79-9F97-BD05AF238218}|Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\persistence\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hrleavemanagement.domain\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|solutionrelative:hrleavemanagement.domain\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hrleavemanagement.domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|solutionrelative:hrleavemanagement.domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hrleavemanagement.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|solutionrelative:hrleavemanagement.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hrleavemanagement.domain\\common\\basedomainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|solutionrelative:hrleavemanagement.domain\\common\\basedomainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|c:\\e\\backend\\cleanarcheticturefromyoutube\\hrleavemanagement\\hrleavemanagement.domain\\hr.leavemanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7FB1A4E6-F1FC-4791-91EE-876266B6A7E9}|HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj|solutionrelative:hrleavemanagement.domain\\hr.leavemanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -54,86 +74,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Profiles\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\Profiles\\MappingProfile.cs",
-              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Profiles\\MappingProfile.cs",
-              "RelativeToolTip": "Hr.LeaveManagement.Application\\Profiles\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T12:17:20.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ILeaveTypeRepository.cs",
-              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveTypeRepository.cs",
-              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveTypeRepository.cs",
-              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveTypeRepository.cs",
-              "RelativeToolTip": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveTypeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T12:02:30.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ILeaveAllocationRepository.cs",
-              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveAllocationRepository.cs",
-              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveAllocationRepository.cs",
-              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveAllocationRepository.cs",
-              "RelativeToolTip": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveAllocationRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T12:00:59.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ILeaveRequestRepository.cs",
-              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveRequestRepository.cs",
-              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveRequestRepository.cs",
-              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveRequestRepository.cs",
-              "RelativeToolTip": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveRequestRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T11:58:41.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\IGenericRepository.cs",
-              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\IGenericRepository.cs",
-              "RelativeToolTip": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T10:56:50.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Hr.LeaveManagement.Application",
-              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj",
-              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj",
-              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj",
-              "RelativeToolTip": "Hr.LeaveManagement.Application\\Hr.LeaveManagement.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-29T10:53:52.593Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
@@ -144,60 +86,199 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationServiceRegisteration.cs",
+              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\ApplicationServiceRegisteration.cs",
+              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\ApplicationServiceRegisteration.cs",
+              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\ApplicationServiceRegisteration.cs",
+              "RelativeToolTip": "Hr.LeaveManagement.Application\\ApplicationServiceRegisteration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:39:40.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveRequestListDto.cs",
+              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\DTOs\\LeaveRequest\\LeaveRequestListDto.cs",
+              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\DTOs\\LeaveRequest\\LeaveRequestListDto.cs",
+              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\DTOs\\LeaveRequest\\LeaveRequestListDto.cs",
+              "RelativeToolTip": "Hr.LeaveManagement.Application\\DTOs\\LeaveRequest\\LeaveRequestListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:52:46.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "LeaveTypeDto.cs",
+              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\DTOs\\LeaveTypeDto.cs",
+              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\DTOs\\LeaveTypeDto.cs",
+              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\DTOs\\LeaveTypeDto.cs",
+              "RelativeToolTip": "Hr.LeaveManagement.Application\\DTOs\\LeaveTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:31:44.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveRequestDto.cs",
+              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\DTOs\\LeaveRequest\\LeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\DTOs\\LeaveRequest\\LeaveRequestDto.cs",
+              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\DTOs\\LeaveRequest\\LeaveRequestDto.cs",
+              "RelativeToolTip": "Hr.LeaveManagement.Application\\DTOs\\LeaveRequest\\LeaveRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:31:43.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveAllocationDto.cs",
+              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\DTOs\\LeaveAllocationDto.cs",
+              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\DTOs\\LeaveAllocationDto.cs",
+              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\DTOs\\LeaveAllocationDto.cs",
+              "RelativeToolTip": "Hr.LeaveManagement.Application\\DTOs\\LeaveAllocationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:31:11.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\DTOs\\Common\\BaseDto.cs",
+              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\DTOs\\Common\\BaseDto.cs",
+              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\DTOs\\Common\\BaseDto.cs",
+              "RelativeToolTip": "Hr.LeaveManagement.Application\\DTOs\\Common\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:29:14.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Hr.LeaveManagement.Application\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:17:20.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILeaveTypeRepository.cs",
+              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveTypeRepository.cs",
+              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveTypeRepository.cs",
+              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveTypeRepository.cs",
+              "RelativeToolTip": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:02:30.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILeaveAllocationRepository.cs",
+              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveAllocationRepository.cs",
+              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveAllocationRepository.cs",
+              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveAllocationRepository.cs",
+              "RelativeToolTip": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveAllocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:00:59.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ILeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveRequestRepository.cs",
+              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveRequestRepository.cs",
+              "RelativeToolTip": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\ILeaveRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:58:41.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\Hr.LeaveManagement.Application\\Persistence\\Contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Hr.LeaveManagement.Application\\Persistence\\Contracts\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:56:50.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BaseDomainEntity.cs",
               "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\HrLeaveManagement.Domain\\Common\\BaseDomainEntity.cs",
               "RelativeDocumentMoniker": "HrLeaveManagement.Domain\\Common\\BaseDomainEntity.cs",
               "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\HrLeaveManagement.Domain\\Common\\BaseDomainEntity.cs",
               "RelativeToolTip": "HrLeaveManagement.Domain\\Common\\BaseDomainEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T10:40:07.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "LeaveType.cs",
               "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\HrLeaveManagement.Domain\\LeaveType.cs",
               "RelativeDocumentMoniker": "HrLeaveManagement.Domain\\LeaveType.cs",
               "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\HrLeaveManagement.Domain\\LeaveType.cs",
               "RelativeToolTip": "HrLeaveManagement.Domain\\LeaveType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T10:38:34.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "LeaveRequest.cs",
               "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\HrLeaveManagement.Domain\\LeaveRequest.cs",
               "RelativeDocumentMoniker": "HrLeaveManagement.Domain\\LeaveRequest.cs",
               "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\HrLeaveManagement.Domain\\LeaveRequest.cs",
               "RelativeToolTip": "HrLeaveManagement.Domain\\LeaveRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T10:38:30.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "LeaveAllocation.cs",
               "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\HrLeaveManagement.Domain\\LeaveAllocation.cs",
               "RelativeDocumentMoniker": "HrLeaveManagement.Domain\\LeaveAllocation.cs",
               "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\HrLeaveManagement.Domain\\LeaveAllocation.cs",
               "RelativeToolTip": "HrLeaveManagement.Domain\\LeaveAllocation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T10:34:23.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Hr.LeaveManagement.Domain",
+              "DocumentIndex": 15,
+              "Title": "Hr.LeaveManagement.Domain.csproj",
               "DocumentMoniker": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj",
               "RelativeDocumentMoniker": "HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj",
               "ToolTip": "C:\\E\\Backend\\CleanArchetictureFromYoutube\\HrLeaveManagement\\HrLeaveManagement.Domain\\Hr.LeaveManagement.Domain.csproj",
